@@ -1,4 +1,7 @@
 # Atividade do senai
+
+## Aluno: Washington Lyniker 
+
 ## GitHub Main, Branch e Merge
 
 Investigar os fundamentos e a aplicabilidade de uma linguagem de programação, promovendo análise crítica, colaboração e apresentação dos resultados.
